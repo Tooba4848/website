@@ -1,0 +1,46 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.navbar{
+  background-color: rgb(73, 36, 36);
+  color: white;
+  padding: 15px 0px 25px 0px;
+}
+.navbar h1{
+display: inline;
+margin-left: 80px;
+padding: 0px ;
+}
+.nav{
+display: inline;
+margin-left: 130px;
+
+}
+.navbar li{
+  display: inline;
+  margin-left: 150px;
+  
+}
+.navbar li a{
+  text-decoration: none;
+  /* cursor: pointer; */
+  color: white;
+  
+}
+.navbar li a:hover{
+  color: orangered;
+}
+.btn{
+  margin-left: 300px;
+  text-decoration: none;
+  color: white;
+  background-color: orange;
+  padding: 48px 61px 28px 61px;
+  font-weight: bold;
+  font-size: 19px;
+}
+.btn:hover{
+  background-color: orangered;
+  text-decoration: underline;
+}
